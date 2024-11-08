@@ -1,6 +1,7 @@
 Hi there 👋  
 # ✨ About Me
-- 💻 I’m front-end engineer
+- 💻 I’m front-end web developer
+- 🌱
 
 # 🌐 Tech Stack
 ![Boostrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=Bootstrap&logoColor=%23FFFFFF&logoSize=auto&labelColor=%237952B3&cacheSeconds=3600&link=%3Cobject%3E)
