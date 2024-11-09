@@ -9,7 +9,7 @@ Hi there 👋
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=CSS3&logoColor=%23FFFFFF&logoSize=auto&labelColor=%231572B6&cacheSeconds=3600&link=%3Cobject%3E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=HTML5&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23E34F26&cacheSeconds=3600&link=%3Cobject%3E)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=dracula)](https://github.com/brayone-no-xv?quote="tes")
 
 ## 📊 Github Stats
 <div align="left">
