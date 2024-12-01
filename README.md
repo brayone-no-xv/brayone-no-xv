@@ -5,8 +5,7 @@
 <h1> ✨ About Me </h1>
 <ul>
   <li>💻 I’m front-end web developer </li>
-  <li></li>
-  <li></li>
+  <li>❤ I like making small web project</li>
 </ul>
 
 <div>
