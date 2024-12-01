@@ -3,6 +3,7 @@ Hi there 👋
 - 💻 I’m front-end web developer
 - 🌱
 <div>
+  <img src= " "/>
 </div>
 
 # 🌐 Tech Stack
