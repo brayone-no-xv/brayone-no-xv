@@ -2,7 +2,7 @@
 <h1>Hi there, I'm User 👋</h1>  
 </div>
 
-# ✨ About Me
+<h1> ✨ About Me </h1>
 - 💻 I’m front-end web developer
 - 🌱
 
