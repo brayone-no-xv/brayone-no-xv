@@ -3,10 +3,11 @@
 </div>
 
 <h1> ✨ About Me </h1>
-- 💻 I’m front-end web developer
-- ...
-- ...
-- ...
+<ul>
+  <li>💻 I’m front-end web developer </li>
+  <li></li>
+  <li></li>
+</ul>
 
 <div>
   <img src= "https://github.com/brayone-no-xv/brayone-no-xv/blob/hellostudent/Images/53a03c3f-e98c-4bcb-a8ca-d8f4b180e970.jpg"/>
