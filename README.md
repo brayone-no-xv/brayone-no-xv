@@ -18,7 +18,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rahman-0874a229a)
 
 ## 🖥 Tech Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwindcss,vue,canva)
+<div align = "center">
+<a href="https://go-skill-icons.vercel.app/">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,git,bootstrap,tailwindcss,canva&perline=4" />
+</a>
+</div>
 
 ## 🛠 Tools-Frameworks ⚙
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
