@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi there, I'm User 👋</h1>  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anonymous+👨🏻‍💻💻;" />
 </div>
 
 <h1> ✨ About Me </h1>
