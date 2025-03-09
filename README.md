@@ -20,7 +20,7 @@
 ## 🖥 Tech Stack
 <div align = "center">
 <a href="https://go-skill-icons.vercel.app/">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,git,bootstrap,tailwindcss,canva&perline=4" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwindcss,canva&perline=4" />
 </a>
 </div>
 
