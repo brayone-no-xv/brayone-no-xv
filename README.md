@@ -13,14 +13,14 @@
   <img src= "https://github.com/brayone-no-xv/brayone-no-xv/blob/hellostudent/Images/53a03c3f-e98c-4bcb-a8ca-d8f4b180e970.jpg"/>
 </div>
 
-# 🌏 Connect with me 
+# 🌏 Connect with me via:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brayone_xv?igsh=OHh6anFmbW5xd3d0)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rahman-0874a229a)
 
 ## 🖥 Tech Stack
 <div align = "center">
 <a href="https://go-skill-icons.vercel.app/">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwindcss,mongodb,vuejs&perline=4" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwindcss,mongodb,vuejs,mysql&perline=4" />
 </a>
 </div>
 
