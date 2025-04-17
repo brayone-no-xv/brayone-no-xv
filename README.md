@@ -20,12 +20,14 @@
 ## 🖥 Tech Stack
 <div align = "center">
 <a href="https://go-skill-icons.vercel.app/">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwindcss,canva&perline=4" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwindcss,mongodb&perline=4" />
 </a>
 </div>
 
-## 🛠 Tools-Frameworks ⚙
+## 🛠 Tools & Technologies ⚙
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📖 Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
